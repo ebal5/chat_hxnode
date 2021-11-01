@@ -1,0 +1,4 @@
+--library hxnodejs:12.1.0
+-cp src/server
+--main Main
+--js dist/main.js
